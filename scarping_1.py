@@ -17,5 +17,8 @@ def getLink(url):
     return htmldata
 
 
+"""
+##testing
 data = soup(getLink("https://myanimelist.net/") ,'html.parser')
 print(data.title)
+"""
