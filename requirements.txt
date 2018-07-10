@@ -1,0 +1,8 @@
+beautifulsoup4==4.6.0
+lxml==4.2.1
+MarkupSafe==1.0
+numpy==1.13.1
+numpydoc==0.7.0
+requests==2.18.3
+selenium==3.11.0
+
